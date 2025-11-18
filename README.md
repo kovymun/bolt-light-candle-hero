@@ -4,7 +4,14 @@ This repository contains my trials using **Bolt.new**, an AI-powered web builder
 
 ---
 
-### 📌 Project Overview
+### Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Tech Stack](#tech-stack)
+3. [Purpose of This Repository](#purpose-of-this-repository)
+4. [Screenshots](#screenshots)
+
+### Project Overview
 
 This repo includes a **simple Hero Section UI** generated using Bolt.new.
 
@@ -17,7 +24,7 @@ The purpose of this project is to:
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 The Bolt-generated project uses:
 
@@ -28,7 +35,7 @@ The Bolt-generated project uses:
 
 ---
 
-### 🎯 Purpose of This Repository
+### Purpose of This Repository
 
 This repository is mainly for **learning, testing and experimentation**, not production use.
 
@@ -38,5 +45,11 @@ It serves as:
 - A **reference** for future React/Tailwind layouts
 - An experiment in combining AI with manual coding
 - A way to speed up UI development during my full-stack learning journey
+
+---
+
+### Screenshots
+
+![Image](https://github.com/user-attachments/assets/1cf374db-70e0-4227-af35-841df9d5f25e)
 
 ---
