@@ -1,6 +1,6 @@
 ## 🚀 Bolt.new Experiments: Hero Page Project
 
-This repository contains my trials using **Bolt.new**, an AI-powered web builder that runs fully in the browser. As a full-stack developer, I’m exploring how AI can help me generate clean, modern UI layouts.
+> This repository contains my trials using **Bolt.new**, an AI-powered web builder that runs fully in the browser. As a full-stack developer, I’m exploring how AI can help me generate clean, modern UI layouts.
 
 ---
 
